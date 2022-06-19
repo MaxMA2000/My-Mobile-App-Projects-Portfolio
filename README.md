@@ -15,8 +15,8 @@
 - Run `npm start` to start the `expo` with your simulator
 
 
-<img src="./Images/image-1.png" width="40%" height="40%">
-<img src="./Images/image-2.png" width="40%" height="40%">
-<img src="./Images/image-3.png" width="40%" height="40%">
-<img src="./Images/image-4.png" width="40%" height="40%">
-<img src="./Images/image-5.png" width="40%" height="40%">
+<img src="./Images/cook-image-1.png" width="40%" height="40%">
+<img src="./Images/cook-image-2.png" width="40%" height="40%">
+<img src="./Images/cook-image-3.png" width="40%" height="40%">
+<img src="./Images/cook-image-4.png" width="40%" height="40%">
+<img src="./Images/cook-image-5.png" width="40%" height="40%">
